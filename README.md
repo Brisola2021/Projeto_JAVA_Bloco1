@@ -7,7 +7,7 @@
   
   
   # COMO SURGIU ?
-   É um software criado para facilitar a forma de atender o público de pessoas portadoras do HIV que enfrentam dificuldades socioculturais. Tem o intuito de ajudar no combate e na prevenção do vírus HIV.
+   É um software criado para facilitar a forma de atender o público de pessoas portadoras do HIV que enfrentam dificuldades socioculturais. Surgiu com o intuito de ajudar no combate e na prevenção do vírus HIV.
     
   # DESENVOLVIDO
 Projeto Desenvolvido para o termino do Primeiro Módulo no Bootcamp da Generation Brasil!
