@@ -13,7 +13,7 @@
 Projeto Desenvolvido para o término do Primeiro Módulo no Bootcamp da Generation Brasil!
   
   # DESENVOLVEDORES
-ÁGATHA CAMARGO | IZABELA ALMEIDA | JÉTER SIMÃO DA SILVA | PABLO COTRIM | PAULO BRISOLA | SUELEN
+ÁGATHA CAMARGO | IZABELA ALMEIDA | JÉTER SIMÃO DA SILVA | PABLO COTRIM | PAULO BRISOLA | SUELEN BENTO
   
   # O QUE É?
 Um software de cadastro para usuários que queiram solicitar a realização do teste rápido e oferecer suporte para que o teste feito em casa seja de forma sigilosa e segura. Além disso, oferecemos orientações e oferecemos suporte através da opção FAQ.
